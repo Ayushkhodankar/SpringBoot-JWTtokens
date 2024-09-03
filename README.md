@@ -1,6 +1,6 @@
 # SpringBoot-JWT Tokens
 
-== What is a JSON Web Token?
+What is a JSON Web Token?
 
 JSON Web Token (JWT) is a _general-purpose_ text-based messaging format for transmitting information in a
 compact and secure way.  Contrary to popular belief, JWT is not just useful for sending and receiving identity tokens
