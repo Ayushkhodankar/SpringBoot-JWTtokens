@@ -24,6 +24,8 @@ within 'claims' something about an identity.
 And while it is useful to 'claim' something about an identity, really anyone can do that. What's important is that you
 _trust_ the claims by verifying they come from a person or computer you trust.
 
+<img src="https://th.bing.com/th/id/OIP.5kUpC0mCTZsTUKDffS6pVwHaD4?rs=1&pid=ImgDetMain" alt="jwt"></img>
+
 A nice feature of JWTs is that they can be secured in various ways. A JWT can be cryptographically signed (making it
 what we call a https://tools.ietf.org/html/rfc7515[JWS]) or encrypted (making it a
 https://tools.ietf.org/html/rfc7516[JWE]).  This adds a powerful layer of verifiability to the JWT - a
